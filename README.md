@@ -13,22 +13,22 @@ A boilerplate to kick-start your Angular development. This starter kit is tailor
 
 1. **Clone the Repository**
 
-   \```
+   ```
    git clone https://github.com/HilmiMubarok/angular-starter.git
    cd angular-starter
-   \```
+   ```
 
 2. **Install Dependencies**
 
-   \```
+   ```
    npm install
-   \```
+   ```
 
 3. **Run the Development Server**
 
-   \```
+   ```
    npm start
-   \```
+   ```
 
 Visit `http://localhost:4200/` in your browser.
 
@@ -36,23 +36,23 @@ Visit `http://localhost:4200/` in your browser.
 
 To run the unit tests:
 
-\```
+```
 npm test
-\```
+```
 
 For end-to-end tests:
 
-\```
+```
 npm run e2e
-\```
+```
 
 ## Building for Production
 
 To build an optimized version of your application for production:
 
-\```
+```
 npm run build
-\```
+```
 
 ## Contributing
 
